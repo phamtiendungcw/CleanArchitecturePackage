@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CAP.Domain\CAP.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

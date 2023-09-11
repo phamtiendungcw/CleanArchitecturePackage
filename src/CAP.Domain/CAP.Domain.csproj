@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entities\" />
+    <ProjectReference Include="..\Shared\CAP.Shared.Abstractions\CAP.Shared.Abstractions.csproj" />
   </ItemGroup>
 
 </Project>
